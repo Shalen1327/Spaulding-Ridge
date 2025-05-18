@@ -2,7 +2,7 @@
 
 ## Files
 - `SR.bak` — SQL Server backup file
-- `EmployeeDashboard.pbix` — Power BI report file
+- `ShalenSpauldingRidge.pbixx` — Power BI report file
 
 ## Instructions
 
