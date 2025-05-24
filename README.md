@@ -1,4 +1,4 @@
-# Employee Compensation Dashboard
+# Employee Compensation App
 
 This is a Streamlit-powered dashboard that connects to a Microsoft SQL Server database and allows users to:
 - Filter employees by role, location, and active status
